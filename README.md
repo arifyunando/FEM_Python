@@ -10,6 +10,7 @@ It is built with accordance to FEM course held by Bilkent University and develop
 under constructions...
 
 ## Features
+* 2D Geometry and Truss Frame Analysis
 * Mesh generation on preset geometries
 * Stress and Strain analysis
 * Rendered visualization
